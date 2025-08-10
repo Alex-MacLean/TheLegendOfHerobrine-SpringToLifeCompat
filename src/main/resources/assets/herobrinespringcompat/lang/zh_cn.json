@@ -1,0 +1,14 @@
+{
+  "entity.herobrinespringcompat.cold_infected_chicken": "感染的鸡",
+  "entity.herobrinespringcompat.warm_infected_chicken": "感染的鸡",
+  "entity.herobrinespringcompat.cold_infected_cow": "感染的母牛",
+  "entity.herobrinespringcompat.warm_infected_cow": "感染的母牛",
+  "entity.herobrinespringcompat.cold_infected_pig": "感染的猪",
+  "entity.herobrinespringcompat.warm_infected_pig": "感染的猪",
+  "item.herobrinespringcompat.cold_infected_chicken_spawn_egg": "感染的鸡刷怪蛋",
+  "item.herobrinespringcompat.warm_infected_chicken_spawn_egg": "感染的鸡刷怪蛋",
+  "item.herobrinespringcompat.cold_infected_cow_spawn_egg": "感染的母牛刷怪蛋",
+  "item.herobrinespringcompat.warm_infected_cow_spawn_egg": "感染的母牛刷怪蛋",
+  "item.herobrinespringcompat.cold_infected_pig_spawn_egg": "感染的猪刷怪蛋",
+  "item.herobrinespringcompat.warm_infected_pig_spawn_egg": "感染的猪刷怪蛋"
+}

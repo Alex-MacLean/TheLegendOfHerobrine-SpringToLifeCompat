@@ -1,0 +1,14 @@
+{
+  "entity.herobrinespringcompat.cold_infected_chicken": "Pollo Infectado",
+  "entity.herobrinespringcompat.warm_infected_chicken": "Pollo Infectado",
+  "entity.herobrinespringcompat.cold_infected_cow": "Vaca Infectada",
+  "entity.herobrinespringcompat.warm_infected_cow": "Vaca Infectada",
+  "entity.herobrinespringcompat.cold_infected_pig": "Cerdo Infectado",
+  "entity.herobrinespringcompat.warm_infected_pig": "Cerdo Infectado",
+  "item.herobrinespringcompat.cold_infected_chicken_spawn_egg": "Generar Pollo Infectado",
+  "item.herobrinespringcompat.warm_infected_chicken_spawn_egg": "Generar Pollo Infectado",
+  "item.herobrinespringcompat.cold_infected_cow_spawn_egg": "Generar Vaca Infectada",
+  "item.herobrinespringcompat.warm_infected_cow_spawn_egg": "Generar Vaca Infectada",
+  "item.herobrinespringcompat.cold_infected_pig_spawn_egg": "Generar Cerdo Infectado",
+  "item.herobrinespringcompat.warm_infected_pig_spawn_egg": "Generar Cerdo Infectado"
+}

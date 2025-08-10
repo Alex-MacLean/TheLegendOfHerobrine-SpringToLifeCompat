@@ -1,0 +1,14 @@
+{
+  "entity.herobrinespringcompat.cold_infected_chicken": "Zainfekowany Kurczak",
+  "entity.herobrinespringcompat.warm_infected_chicken": "Zainfekowany Kurczak",
+  "entity.herobrinespringcompat.cold_infected_cow": "Zainfekowana Krowa",
+  "entity.herobrinespringcompat.warm_infected_cow": "Zainfekowana Krowa",
+  "entity.herobrinespringcompat.cold_infected_pig": "Zainfekowana Świnia",
+  "entity.herobrinespringcompat.warm_infected_pig": "Zainfekowana Świnia",
+  "item.herobrinespringcompat.cold_infected_chicken_spawn_egg": "Jajo Przyzywające Zainfekowanego Kurczaka",
+  "item.herobrinespringcompat.warm_infected_chicken_spawn_egg": "Jajo Przyzywające Zainfekowanego Kurczaka",
+  "item.herobrinespringcompat.cold_infected_cow_spawn_egg": "Jajo Przyzywające Zainfekowaną Krowę",
+  "item.herobrinespringcompat.warm_infected_cow_spawn_egg": "Jajo Przyzywające Zainfekowaną Krowę",
+  "item.herobrinespringcompat.cold_infected_pig_spawn_egg": "Jajo Przyzywające Zainfekowaną Świnię",
+  "item.herobrinespringcompat.warm_infected_pig_spawn_egg": "Jajo Przyzywające Zainfekowaną Świnię"
+}

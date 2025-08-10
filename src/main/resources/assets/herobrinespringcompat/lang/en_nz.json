@@ -1,0 +1,14 @@
+{
+  "entity.herobrinespringcompat.cold_infected_chicken": "Cold Infected Chicken",
+  "entity.herobrinespringcompat.warm_infected_chicken": "Warm Infected Chicken",
+  "entity.herobrinespringcompat.cold_infected_cow": "Cold Infected Cow",
+  "entity.herobrinespringcompat.warm_infected_cow": "Warm Infected Cow",
+  "entity.herobrinespringcompat.cold_infected_pig": "Cold Infected Pig",
+  "entity.herobrinespringcompat.warm_infected_pig": "Warm Infected Pig",
+  "item.herobrinespringcompat.cold_infected_chicken_spawn_egg": "Cold Infected Chicken Spawn Egg",
+  "item.herobrinespringcompat.warm_infected_chicken_spawn_egg": "Warm Infected Chicken Spawn Egg",
+  "item.herobrinespringcompat.cold_infected_cow_spawn_egg": "Cold Infected Cow Spawn Egg",
+  "item.herobrinespringcompat.warm_infected_cow_spawn_egg": "Warm Infected Cow Spawn Egg",
+  "item.herobrinespringcompat.cold_infected_pig_spawn_egg": "Cold Infected Pig Spawn Egg",
+  "item.herobrinespringcompat.warm_infected_pig_spawn_egg": "Warm Infected Pig Spawn Egg"
+}

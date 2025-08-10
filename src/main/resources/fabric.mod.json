@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "herobrinespringcompat",
+  "version": "${version}",
+  "name": "The Legend of Herobrine Spring to Life Compatibility",
+  "description": "Adds Support for Spring to Life backport to The Legend of Herobrine.",
+  "authors": [
+    "Alex MacLean"
+  ],
+    "contact": {
+      "homepage": "https://herobrinemod.com",
+      "sources": "https://github.com/Alex-MacLean/TheLegendOfHerobrine",
+      "issues": "https://github.com/Alex-MacLean/TheLegendOfHerobrine/issues"
+  },
+  "license": "LGPL-3.0-or-later",
+  "icon": "assets/herobrinespringcompat/logo.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.herobrinemod.herobrinespringcompat.client.HerobrineSpringCompatClient"
+    ],
+    "main": [
+      "com.herobrinemod.herobrinespringcompat.HerobrineSpringCompatMod"
+    ]
+  },
+  "mixins": [
+
+  ],
+  "depends": {
+    "java": ">=21",
+    "fabricloader": ">=0.16.0",
+    "fabric": ">=0.100.1",
+    "fabric-api": ">=0.100.1",
+    "minecraft": ">=1.21",
+    "herobrine": ">=0.8.0",
+    "spring_to_life":">=1.0.0"
+  },
+  "custom": {
+    "modmenu": {
+      "parent": {
+        "id": "herobrine",
+        "name": "The Legend of Herobrine Spring to Life Compatibility",
+        "description": "Adds Support for Spring to Life backport mods to The Legend of Herobrine.",
+        "icon": "assets/herobrinespringcompat/logo.png",
+        "badges": [ "library" ]
+      },
+      "update_checker": true
+    }
+  }
+}

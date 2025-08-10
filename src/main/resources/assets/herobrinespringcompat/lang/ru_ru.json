@@ -1,0 +1,14 @@
+{
+  "entity.herobrinespringcompat.cold_infected_chicken": "Заражённая курица",
+  "entity.herobrinespringcompat.warm_infected_chicken": "Заражённая курица",
+  "entity.herobrinespringcompat.cold_infected_cow": "Заражённая корова",
+  "entity.herobrinespringcompat.warm_infected_cow": "Заражённая корова",
+  "entity.herobrinespringcompat.cold_infected_pig": "Заражённая свинья",
+  "entity.herobrinespringcompat.warm_infected_pig": "Заражённая свинья",
+  "item.herobrinespringcompat.cold_infected_chicken_spawn_egg": "Яйцо призыва заражённой курицы",
+  "item.herobrinespringcompat.warm_infected_chicken_spawn_egg": "Яйцо призыва заражённой курицы",
+  "item.herobrinespringcompat.cold_infected_cow_spawn_egg": "Яйцо призыва заражённой коровы",
+  "item.herobrinespringcompat.warm_infected_cow_spawn_egg": "Яйцо призыва заражённой коровы",
+  "item.herobrinespringcompat.cold_infected_pig_spawn_egg": "Яйцо призыва заражённой свиньи",
+  "item.herobrinespringcompat.warm_infected_pig_spawn_egg": "Яйцо призыва заражённой свиньи"
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "herobrinespringcompat:cold_infected_pig",
+    "herobrinespringcompat:cold_infected_cow",
+    "herobrinespringcompat:cold_infected_chicken",
+    "herobrinespringcompat:warm_infected_pig",
+    "herobrinespringcompat:warm_infected_cow",
+    "herobrinespringcompat:warm_infected_chicken"
+  ]
+}
