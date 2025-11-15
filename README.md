@@ -3,7 +3,7 @@ Adds Spring to Life Backport Compatibility to The Legend of Herobrine.
 
 This repo can also serve as an example for developing addons for The Legend of Herobrine.
 
-As per the LGPL-30-or-later license you are free to fork, modify, redistribute, and link this repo and it's binaries with both free and non-free software as long as the code from this repo remains free and open source software.
+As per the LGPL-3.0-or-later license you are free to fork, modify, redistribute, and link this repo and it's binaries with both free and non-free software as long as the code from this repo remains free and open source software.
 
 **Homepage**: https://herobrinemod.com
 
